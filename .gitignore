@@ -8,3 +8,5 @@ __pycache__/
 
 # Ignore Streamlit's generated files
 .streamlit/
+
+new-venv

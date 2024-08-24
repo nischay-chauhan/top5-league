@@ -85,3 +85,4 @@ if selected_player:
 
     else:
         st.write("No player found with that name.")
+
